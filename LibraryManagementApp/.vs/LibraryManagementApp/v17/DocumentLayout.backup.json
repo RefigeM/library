@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Models\\LibraryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Models\\LibraryMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Concretes\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\IBookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Services\\Abstraction\\IBookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Enums\\BookGenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Enums\\BookGenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Models\\Librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Extensions\\LibraryHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Extensions\\LibraryHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryCatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Models\\LibraryCatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\LibraryManagementApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementApp\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:02:04.923Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Concretes\\LibrarianService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:36:00.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Abstraction\\ILibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:35:27.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Concretes\\LibraryMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:47:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryMemberServise.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Abstraction\\ILibraryMemberServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:43:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Concretes\\BookService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Concretes\\BookService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Concretes\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:42:23.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:46:24.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryMember.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:38:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomLibraryItemException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:37:24.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:18:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\LibraryManagementApp.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+              "RelativeToolTip": "LibraryManagementApp\\LibraryManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T07:39:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:35:09.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:16:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Enums\\BookGenre.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Enums\\BookGenre.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Enums\\BookGenre.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Enums\\BookGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:07:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\LibraryManagementApp\\LibraryManagementApp\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:21:31.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

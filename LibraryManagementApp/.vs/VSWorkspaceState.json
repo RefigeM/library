@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryManagementApp",
+    "\\LibraryManagementApp\\Enums",
+    "\\LibraryManagementApp\\Exceptions",
+    "\\LibraryManagementApp\\Extensions",
+    "\\LibraryManagementApp\\Models",
+    "\\LibraryManagementApp\\Services",
+    "\\LibraryManagementApp\\Services\\Abstraction",
+    "\\LibraryManagementApp\\Services\\Concretes"
+  ],
+  "SelectedNode": "\\LibraryManagementApp\\Models\\LibraryItem.cs",
+  "PreviewInSolutionExplorer": false
+}
